@@ -1,0 +1,17 @@
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Coupled\bin\Debug\DI.Coupled.exe.config
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Coupled\bin\Debug\DI.Coupled.exe
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Coupled\bin\Debug\DI.Coupled.pdb
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Coupled\obj\Debug\DI.Coupled.exe
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Coupled\obj\Debug\DI.Coupled.pdb
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\bin\Debug\DI.Coupled.exe.config
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\obj\Debug\DI.Coupled.exe
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\obj\Debug\DI.Coupled.pdb
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\bin\Debug\DI.Coupled.exe
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\bin\Debug\DI.Coupled.pdb
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\obj\Debug\DI.Coupled.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\bin\Debug\DI.Coupled.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\obj\Debug\DI.Coupled.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\obj\Debug\DI.Coupled.pdb
+\\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Coupled\bin\Debug\DI.Coupled.exe.config
+\\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Coupled\obj\Debug\DI.Coupled.exe
+\\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Coupled\obj\Debug\DI.Coupled.pdb
