@@ -14,4 +14,3 @@ C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Abstraction\obj\
 \\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Abstraction\obj\Debug\DI.Abstraction.pdb
 \\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Abstraction\bin\Debug\DI.Abstraction.exe
 \\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Abstraction\bin\Debug\DI.Abstraction.pdb
-\\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Abstraction\obj\Debug\DI.Abstraction.csprojResolveAssemblyReference.cache
