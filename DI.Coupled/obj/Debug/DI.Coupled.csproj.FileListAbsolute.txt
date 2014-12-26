@@ -15,5 +15,3 @@ C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Coupled\obj\Debu
 \\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Coupled\bin\Debug\DI.Coupled.exe.config
 \\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Coupled\obj\Debug\DI.Coupled.exe
 \\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Coupled\obj\Debug\DI.Coupled.pdb
-\\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Coupled\bin\Debug\DI.Coupled.exe
-\\vmware-host\Shared Folders\Documents\Repos\DIMocks\DI.Coupled\bin\Debug\DI.Coupled.pdb

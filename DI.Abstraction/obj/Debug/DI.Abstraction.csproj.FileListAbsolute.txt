@@ -1,0 +1,11 @@
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Abstraction\bin\Debug\DI.Abstraction.exe.config
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Abstraction\bin\Debug\DI.Abstraction.exe
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Abstraction\bin\Debug\DI.Abstraction.pdb
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Abstraction\obj\Debug\DI.Abstraction.exe
+c:\Users\rlamtabbet\documents\visual studio 2012\Projects\DI\DI.Abstraction\obj\Debug\DI.Abstraction.pdb
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Abstraction\bin\Debug\DI.Abstraction.exe.config
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Abstraction\bin\Debug\DI.Abstraction.exe
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Abstraction\bin\Debug\DI.Abstraction.pdb
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Abstraction\obj\Debug\DI.Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Abstraction\obj\Debug\DI.Abstraction.exe
+C:\Users\Rlamtabbet\Documents\Visual Studio 2013\Projects\DI\DI.Abstraction\obj\Debug\DI.Abstraction.pdb
